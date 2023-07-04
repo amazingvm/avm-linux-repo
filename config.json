@@ -7,6 +7,12 @@
         "linux-kernel-default"
       ]
     },
+    "linux-kernel-default": {
+      "type": "metapackage",
+      "dependencies": [
+        "linux-kernel-6.4"
+      ]
+    },
     "linux-kernel-6.4": {
       "type": "package",
       "install": "commands",
