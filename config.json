@@ -17,13 +17,11 @@
       "type": "package",
       "install": "commands",
       "dependencies": [
-        "git", "bison",
         "build-essential",
-        "ncurses-dev",
-        "xz-utils",
-        "libssl-dev",
-        "bc", "flex",
-        "libelf-dev"
+        "ncurses-dev", "bc",
+        "xz-utils", "libssl-dev",
+        "flex", "libelf-dev", "bison",
+        "wget", "tar"
       ],
       "path": "/tmp/linux_kernel_6.4",
       "download_cmd": "wget https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.4.tar.xz && tar xvf linux-6.4.tar.xz --directory .",
