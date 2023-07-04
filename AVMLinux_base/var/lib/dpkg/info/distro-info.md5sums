@@ -1,0 +1,7 @@
+3a95608aed7565cd93d5f7701df6b462  usr/bin/debian-distro-info
+306856ae9851da354b35244335bdd88b  usr/bin/ubuntu-distro-info
+4846762fb3012fea69ccba63f7a24dfb  usr/share/doc/distro-info/changelog.gz
+a9464499c65346f15b00b9b00f2db5b2  usr/share/doc/distro-info/copyright
+ad9cac8de510139f6d7a123510e380f8  usr/share/man/man1/debian-distro-info.1.gz
+5ab61a395d62262fcfe897e60e65696d  usr/share/man/man1/distro-info.1.gz
+2d5e35b28e70e1364aedc307031f3e23  usr/share/man/man1/ubuntu-distro-info.1.gz
